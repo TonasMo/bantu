@@ -9,6 +9,6 @@ Requisitos: Windows 10 ou 11 (64 bits) e uma DAW com suporte VST3 (FL Studio, Ab
 
 Este repositório contém só a página de download. O código do plugin não é público.
 
-Feito por Tony Morais: [Instagram](https://instagram.com/tonasmo/), [Facebook](https://facebook.com/TonasM/), [LinkedIn](https://www.linkedin.com/in/tony-morais/).
+Feito por Tony Morais: [Instagram](https://instagram.com/tonasmo/), [Facebook](https://facebook.com/TonasM/), [LinkedIn](https://www.linkedin.com/in/tony-morais-021643129/).
 
 VST é uma marca registada da Steinberg Media Technologies GmbH.

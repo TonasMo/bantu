@@ -1,6 +1,6 @@
 # Bantu — African Instruments
 
-Plugin VST3 gratuito para Windows com 12 instrumentos africanos (Djembe, Congas, Dundun, Talking Drum, Ngoma, Shekere, Agogô, Udu, Kalimba, Balafon, Kora e Marimba), que pode trocar por outros 7 da biblioteca (Sabar, Flauta, Bongôs, Cabasa, Reco-reco, Dununba e Log Drum) ou pelos seus próprios samples, efeitos Warmth, Delay e Reverb, e um kit de bateria para os seus próprios samples.
+Plugin VST3 gratuito para Windows com 12 instrumentos africanos (Djembe, Congas, Dundun, Talking Drum, Ngoma, Shekere, Agogô, Udu, Kalimba, Balafon, Kora e Marimba), que pode trocar por outros 7 da biblioteca (Sabar, Flauta, Bongôs, Cabasa, Reco-reco, Djunumba e Log Drum) ou pelos seus próprios samples, efeitos Warmth, Delay e Reverb, e um kit de bateria para os seus próprios samples.
 
 **Página:** https://tonasmo.github.io/bantu/
 **Descarregar:** [Bantu-1.2.0-Setup.exe](https://github.com/TonasMo/bantu/releases/latest)
